@@ -1,4 +1,4 @@
-# This is: Lemon Token
+# Lemon Token
 
 It's an ERC-20 Token I built to demonstrate my ability to create smart contracts on the Ethereum Blockchain.  
 
